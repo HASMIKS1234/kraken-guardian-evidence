@@ -1,2 +1,6 @@
 # artifacts-v14-finality-claims
 artifacts/v14-finality-claims
+REPOSITORY=HASMIKS1234/kraken-guardian-evidence
+BRANCH=evidence
+REVIEWER_ID=HASMIKS1234
+RAW_32_BYTE_PUBLIC_KEY_BASE64=v0TBVHgpdDkRpYocYrh04skq0wdhpflptIiitTSRoxc=
